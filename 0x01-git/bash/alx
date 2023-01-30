@@ -1,10 +1,4 @@
-echo "#!/bin/bash">ax
 #!/bin/bash
+echo "ALX School"
 
-echo"ALX"
-#!/bin/bash
-echo "ALX"
-#!/bin/bash
-echo "School"
-#!/bin/bash
-echo "ALX"
+
